@@ -1,0 +1,621 @@
+{
+  "cateringSuppliers": [
+    {
+      "id": 1,
+      "name": "Taste Buds Catering",
+      "address": "123 Lakeside Road, Kathmandu",
+      "phone": "+977-9812345671",
+      "email": "contact@tastebudscatering.com",
+      "details": "Traditional Nepali and international cuisines for weddings, corporate events, and private parties.",
+      "website": "https://tastebudscatering.com",
+      "category": "Catering",
+      "location": "Kathmandu"
+    },
+    {
+      "id": 2,
+      "name": "Royal Feast Caterers",
+      "address": "88 Thamel, Kathmandu",
+      "phone": "+977-9812345673",
+      "email": "hello@royalfeast.com",
+      "details": "Premium ingredients and elegant presentation for upscale events and private dining.",
+      "website": "https://royalfeast.com",
+      "category": "Catering",
+      "location": "Kathmandu"
+    },
+    {
+      "id": 3,
+      "name": "Yummy Treats Catering",
+      "address": "33 Gongabu, Kathmandu",
+      "phone": "+977-9812345678",
+      "email": "hello@yummytreats.com",
+      "details": "Specializes in desserts and kid-friendly menus, perfect for birthdays and family gatherings.",
+      "website": "https://yummytreats.com",
+      "category": "Catering",
+      "location": "Kathmandu"
+    },
+    {
+      "id": 4,
+      "name": "Butwal Banquet & Catering",
+      "address": "10 Ramnagar, Butwal",
+      "phone": "+977-9812345691",
+      "email": "info@butwalbanquet.com",
+      "details": "Comprehensive catering services for weddings, receptions, and community events.",
+      "website": "https://butwalbanquet.com",
+      "category": "Catering",
+      "location": "Butwal"
+    },
+    {
+      "id": 5,
+      "name": "Everest Catering Butwal",
+      "address": "52 Kalikanagar, Butwal",
+      "phone": "+977-9812345692",
+      "email": "orders@everestbutwal.com",
+      "details": "Buffet, plated, and customized menus with regional Nepali flavors.",
+      "website": "https://everestbutwal.com",
+      "category": "Catering",
+      "location": "Butwal"
+    },
+    {
+      "id": 6,
+      "name": "Royal Events Catering",
+      "address": "6 Traffic Chowk, Butwal",
+      "phone": "+977-9812345693",
+      "email": "contact@royaleventsbutwal.com",
+      "details": "Professional catering for corporate events, birthdays, and family functions.",
+      "website": "https://royaleventsbutwal.com",
+      "category": "Catering",
+      "location": "Butwal"
+    },
+    {
+      "id": 7,
+      "name": "Pokhara Catering House",
+      "address": "21 Lakeside, Pokhara",
+      "phone": "+977-9812345701",
+      "email": "info@pokharacatering.com",
+      "details": "Offers local and continental dishes with exceptional service near Fewa Lake.",
+      "website": "https://pokharacatering.com",
+      "category": "Catering",
+      "location": "Pokhara"
+    },
+    {
+      "id": 8,
+      "name": "Delight Dishes Pokhara",
+      "address": "65 New Road, Pokhara",
+      "phone": "+977-9812345702",
+      "email": "hello@delightpokhara.com",
+      "details": "Elegant catering service for weddings, receptions, and formal events.",
+      "website": "https://delightpokhara.com",
+      "category": "Catering",
+      "location": "Pokhara"
+    },
+    {
+      "id": 9,
+      "name": "Himalayan Feast",
+      "address": "3 Prithvi Chowk, Pokhara",
+      "phone": "+977-9812345703",
+      "email": "feast@himalayanpokhara.com",
+      "details": "Mountain-inspired catering with organic ingredients and live food stations.",
+      "website": "https://himalayanpokhara.com",
+      "category": "Catering",
+      "location": "Pokhara"
+    }
+  ]
+}
+ {
+  "decorationSuppliers": [
+    {
+      "id": 1,
+      "name": "Elegant Event Decor",
+      "address": "12 Durbarmarg, Kathmandu",
+      "phone": "+977-9801001001",
+      "email": "info@eleganteventdecor.com",
+      "details": "Professional event decoration with a focus on luxury weddings, receptions, and corporate events.",
+      "website": "https://eleganteventdecor.com",
+      "category": "Decoration",
+      "location": "Kathmandu"
+    },
+    {
+      "id": 2,
+      "name": "Floral Fantasy Kathmandu",
+      "address": "17 Lazimpat, Kathmandu",
+      "phone": "+977-9801001002",
+      "email": "floral@fantasykathmandu.com",
+      "details": "Specializes in floral arrangements, thematic backdrops, and stage design for ceremonies.",
+      "website": "https://fantasykathmandu.com",
+      "category": "Decoration",
+      "location": "Kathmandu"
+    },
+    {
+      "id": 3,
+      "name": "Nepal Decor House",
+      "address": "29 Baneshwor, Kathmandu",
+      "phone": "+977-9801001003",
+      "email": "contact@nepaldecor.com",
+      "details": "Trusted decoration partner for traditional and modern weddings, engagements, and parties.",
+      "website": "https://nepaldecor.com",
+      "category": "Decoration",
+      "location": "Kathmandu"
+    },
+    {
+      "id": 4,
+      "name": "Butwal Dream Decor",
+      "address": "3 Deepnagar, Butwal",
+      "phone": "+977-9802002001",
+      "email": "hello@butwaldreamdecor.com",
+      "details": "Creative decoration service for weddings, birthdays, and social gatherings in Butwal and nearby areas.",
+      "website": "https://butwaldreamdecor.com",
+      "category": "Decoration",
+      "location": "Butwal"
+    },
+    {
+      "id": 5,
+      "name": "Royal Decorations Butwal",
+      "address": "22 Kalikanagar, Butwal",
+      "phone": "+977-9802002002",
+      "email": "events@royaldecorbutwal.com",
+      "details": "Elegant and cost-effective decoration solutions for indoor and outdoor events.",
+      "website": "https://royaldecorbutwal.com",
+      "category": "Decoration",
+      "location": "Butwal"
+    },
+    {
+      "id": 6,
+      "name": "Creative Moments Butwal",
+      "address": "10 Milanchowk, Butwal",
+      "phone": "+977-9802002003",
+      "email": "decor@creativemoments.com",
+      "details": "Specializes in customized themes and lighting setups for all types of events.",
+      "website": "https://creativemoments.com",
+      "category": "Decoration",
+      "location": "Butwal"
+    },
+    {
+      "id": 7,
+      "name": "Pokhara Decor & Events",
+      "address": "14 Lakeside, Pokhara",
+      "phone": "+977-9803003001",
+      "email": "info@pokharadecor.com",
+      "details": "Modern and stylish event decoration tailored to lakeside weddings and receptions.",
+      "website": "https://pokharadecor.com",
+      "category": "Decoration",
+      "location": "Pokhara"
+    },
+    {
+      "id": 8,
+      "name": "Heavenly Designs Pokhara",
+      "address": "55 New Road, Pokhara",
+      "phone": "+977-9803003002",
+      "email": "hello@heavenlydesigns.com",
+      "details": "Expert in floral installations, mandap setups, and vibrant backdrops for grand celebrations.",
+      "website": "https://heavenlydesigns.com",
+      "category": "Decoration",
+      "location": "Pokhara"
+    },
+    {
+      "id": 9,
+      "name": "Aura Events Pokhara",
+      "address": "7 Prithvi Chowk, Pokhara",
+      "phone": "+977-9803003003",
+      "email": "events@aurapokhara.com",
+      "details": "Full-service event and stage decoration with personalized touches for memorable moments.",
+      "website": "https://aurapokhara.com",
+      "category": "Decoration",
+      "location": "Pokhara"
+    }
+  ]
+}
+{
+  "photoshootSuppliers": [
+    {
+      "id": 1,
+      "name": "Moments Captured Studio",
+      "address": "12 Jhamsikhel, Kathmandu",
+      "phone": "+977-9804004001",
+      "email": "info@momentscaptured.com",
+      "details": "Professional wedding and engagement photography with cinematic video services.",
+      "website": "https://momentscaptured.com",
+      "category": "Photoshoot",
+      "location": "Kathmandu"
+    },
+    {
+      "id": 2,
+      "name": "Everlight Photography",
+      "address": "77 Kalopul, Kathmandu",
+      "phone": "+977-9804004002",
+      "email": "contact@everlightphotography.com",
+      "details": "Specializes in pre-wedding shoots, candid photography, and traditional ceremonies.",
+      "website": "https://everlightphotography.com",
+      "category": "Photoshoot",
+      "location": "Kathmandu"
+    },
+    {
+      "id": 3,
+      "name": "Pixel Art Studios",
+      "address": "32 Tinkune, Kathmandu",
+      "phone": "+977-9804004003",
+      "email": "studio@pixelart.com",
+      "details": "Creative studio offering high-resolution photography, drone coverage, and event documentation.",
+      "website": "https://pixelart.com",
+      "category": "Photoshoot",
+      "location": "Kathmandu"
+    },
+    {
+      "id": 4,
+      "name": "Butwal Wedding Lens",
+      "address": "5 Ramnagar, Butwal",
+      "phone": "+977-9805005001",
+      "email": "hello@butwalweddinglens.com",
+      "details": "Dedicated to wedding and family photoshoots with personalized themes and editing.",
+      "website": "https://butwalweddinglens.com",
+      "category": "Photoshoot",
+      "location": "Butwal"
+    },
+    {
+      "id": 5,
+      "name": "Shutter Focus Studio",
+      "address": "19 Kalikanagar, Butwal",
+      "phone": "+977-9805005002",
+      "email": "focus@shutterstudio.com",
+      "details": "Offers photoshoot packages for engagements, portraits, and maternity sessions.",
+      "website": "https://shutterstudio.com",
+      "category": "Photoshoot",
+      "location": "Butwal"
+    },
+    {
+      "id": 6,
+      "name": "Lens & Light Butwal",
+      "address": "65 Traffic Chowk, Butwal",
+      "phone": "+977-9805005003",
+      "email": "support@lenslight.com",
+      "details": "Capturing precious moments with cinematic storytelling and creative direction.",
+      "website": "https://lenslight.com",
+      "category": "Photoshoot",
+      "location": "Butwal"
+    },
+    {
+      "id": 7,
+      "name": "Pokhara Wedding Frame",
+      "address": "11 Lakeside, Pokhara",
+      "phone": "+977-9806006001",
+      "email": "frame@pokharawedding.com",
+      "details": "Specialized in lakeside wedding photography with scenic drone and candid coverage.",
+      "website": "https://pokharawedding.com",
+      "category": "Photoshoot",
+      "location": "Pokhara"
+    },
+    {
+      "id": 8,
+      "name": "Pixel Studio Pokhara",
+      "address": "44 Mahendrapool, Pokhara",
+      "phone": "+977-9806006002",
+      "email": "studio@pixelpokhara.com",
+      "details": "Creative studio offering pre-wedding, couple shoots, and post-event editing services.",
+      "website": "https://pixelpokhara.com",
+      "category": "Photoshoot",
+      "location": "Pokhara"
+    },
+    {
+      "id": 9,
+      "name": "Focus & Frame Studio",
+      "address": "9 Prithvi Chowk, Pokhara",
+      "phone": "+977-9806006003",
+      "email": "book@focusandframe.com",
+      "details": "Comprehensive photography and videography studio known for professional and friendly service.",
+      "website": "https://focusandframe.com",
+      "category": "Photoshoot",
+      "location": "Pokhara"
+    }
+  ]
+}
+
+{
+  "accessoriesSuppliers": [
+    {
+      "id": 1,
+      "name": "Bridal Bliss Accessories",
+      "address": "18 Durbarmarg, Kathmandu",
+      "phone": "+977-9807007001",
+      "email": "info@bridalbliss.com",
+      "details": "Offers luxury bridal accessories including veils, tiaras, jewelry sets, and clutch purses.",
+      "website": "https://bridalbliss.com",
+      "category": "Accessories",
+      "location": "Kathmandu"
+    },
+    {
+      "id": 2,
+      "name": "Ever Elegant Collection",
+      "address": "22 New Baneshwor, Kathmandu",
+      "phone": "+977-9807007002",
+      "email": "contact@everelegant.com",
+      "details": "Curated accessories for bridesmaids, groomsmen, and traditional wedding ensembles.",
+      "website": "https://everelegant.com",
+      "category": "Accessories",
+      "location": "Kathmandu"
+    },
+    {
+      "id": 3,
+      "name": "Ornate Nepal",
+      "address": "36 Kalimati, Kathmandu",
+      "phone": "+977-9807007003",
+      "email": "support@ornatenepal.com",
+      "details": "Traditional and contemporary wedding ornaments including bangles, necklaces, and hairpins.",
+      "website": "https://ornatenepal.com",
+      "category": "Accessories",
+      "location": "Kathmandu"
+    },
+    {
+      "id": 4,
+      "name": "Butwal Bridal Boutique",
+      "address": "55 Deepnagar, Butwal",
+      "phone": "+977-9808008001",
+      "email": "hello@butwalboutique.com",
+      "details": "Personalized accessories for brides and bridesmaids with rental options available.",
+      "website": "https://butwalboutique.com",
+      "category": "Accessories",
+      "location": "Butwal"
+    },
+    {
+      "id": 5,
+      "name": "Elegant Touch Butwal",
+      "address": "20 Milanchowk, Butwal",
+      "phone": "+977-9808008002",
+      "email": "orders@eleganttouchbutwal.com",
+      "details": "Specializes in handcrafted bridal sets, ethnic jewelry, and modern fashion accessories.",
+      "website": "https://eleganttouchbutwal.com",
+      "category": "Accessories",
+      "location": "Butwal"
+    },
+    {
+      "id": 6,
+      "name": "Royal Accessories Hub",
+      "address": "8 Kalikanagar, Butwal",
+      "phone": "+977-9808008003",
+      "email": "shop@royalaccessorieshub.com",
+      "details": "Exclusive collection of wedding crowns, anklets, earrings, and traditional items.",
+      "website": "https://royalaccessorieshub.com",
+      "category": "Accessories",
+      "location": "Butwal"
+    },
+    {
+      "id": 7,
+      "name": "Lakeside Accessories Boutique",
+      "address": "24 Lakeside, Pokhara",
+      "phone": "+977-9809009001",
+      "email": "info@lakesideboutique.com",
+      "details": "Unique lakeside wedding accessories store featuring floral jewelry and matching sets.",
+      "website": "https://lakesideboutique.com",
+      "category": "Accessories",
+      "location": "Pokhara"
+    },
+    {
+      "id": 8,
+      "name": "Pokhara Ethnic Glam",
+      "address": "60 New Road, Pokhara",
+      "phone": "+977-9809009002",
+      "email": "glam@pokharaethnic.com",
+      "details": "Blends ethnic charm with modern trends in bridal and groom accessories.",
+      "website": "https://pokharaethnic.com",
+      "category": "Accessories",
+      "location": "Pokhara"
+    },
+    {
+      "id": 9,
+      "name": "Shining Moments Pokhara",
+      "address": "5 Prithvi Chowk, Pokhara",
+      "phone": "+977-9809009003",
+      "email": "support@shiningmoments.com",
+      "details": "Full range of wedding accessories including purses, bindis, hairpieces, and boutonnieres.",
+      "website": "https://shiningmoments.com",
+      "category": "Accessories",
+      "location": "Pokhara"
+    }
+  ]
+}
+{
+  "saloonSuppliers": [
+    {
+      "id": 1,
+      "name": "Radiance Bridal Studio",
+      "address": "45 Durbarmarg, Kathmandu",
+      "phone": "+977-9810001001",
+      "email": "info@radiancebridal.com",
+      "details": "Specialized in bridal makeovers, hair styling, and luxury grooming packages.",
+      "website": "https://radiancebridal.com",
+      "category": "Saloon",
+      "location": "Kathmandu"
+    },
+    {
+      "id": 2,
+      "name": "Elegance Beauty Lounge",
+      "address": "12 Lazimpat, Kathmandu",
+      "phone": "+977-9810001002",
+      "email": "bookings@elegancelounge.com",
+      "details": "Premium saloon for men and women offering facial, manicure, pedicure, and hair spa services.",
+      "website": "https://elegancelounge.com",
+      "category": "Saloon",
+      "location": "Kathmandu"
+    },
+    {
+      "id": 3,
+      "name": "Kathmandu Glam Hub",
+      "address": "31 Putalisadak, Kathmandu",
+      "phone": "+977-9810001003",
+      "email": "contact@kathmanduglam.com",
+      "details": "Modern unisex saloon known for high-end makeup, hairstyling, and grooming solutions.",
+      "website": "https://kathmanduglam.com",
+      "category": "Saloon",
+      "location": "Kathmandu"
+    },
+    {
+      "id": 4,
+      "name": "Glow & Style Butwal",
+      "address": "19 Milanchowk, Butwal",
+      "phone": "+977-9811002001",
+      "email": "hello@glowstylebutwal.com",
+      "details": "Expert in bridal makeup, mehndi, and complete pre-event grooming packages.",
+      "website": "https://glowstylebutwal.com",
+      "category": "Saloon",
+      "location": "Butwal"
+    },
+    {
+      "id": 5,
+      "name": "Royal Touch Beauty Bar",
+      "address": "33 Deepnagar, Butwal",
+      "phone": "+977-9811002002",
+      "email": "info@royaltouchbutwal.com",
+      "details": "Unisex saloon offering makeup, hair care, skin treatments, and event styling.",
+      "website": "https://royaltouchbutwal.com",
+      "category": "Saloon",
+      "location": "Butwal"
+    },
+    {
+      "id": 6,
+      "name": "Butwal Makeover Studio",
+      "address": "6 Kalikanagar, Butwal",
+      "phone": "+977-9811002003",
+      "email": "support@makeoverbutwal.com",
+      "details": "Trusted for wedding day services, party looks, and beauty consultations.",
+      "website": "https://makeoverbutwal.com",
+      "category": "Saloon",
+      "location": "Butwal"
+    },
+    {
+      "id": 7,
+      "name": "Lakeside Beauty Lounge",
+      "address": "9 Lakeside, Pokhara",
+      "phone": "+977-9812003001",
+      "email": "services@lakesidelounge.com",
+      "details": "Specialized in lakeside wedding looks, hair and makeup styling, and skincare.",
+      "website": "https://lakesidelounge.com",
+      "category": "Saloon",
+      "location": "Pokhara"
+    },
+    {
+      "id": 8,
+      "name": "Pokhara Elite Studio",
+      "address": "21 New Road, Pokhara",
+      "phone": "+977-9812003002",
+      "email": "elite@pokharastudio.com",
+      "details": "Modern unisex beauty studio offering makeover services for special events.",
+      "website": "https://pokharastudio.com",
+      "category": "Saloon",
+      "location": "Pokhara"
+    },
+    {
+      "id": 9,
+      "name": "Bliss Beauty Care",
+      "address": "3 Prithvi Chowk, Pokhara",
+      "phone": "+977-9812003003",
+      "email": "care@blisspokhara.com",
+      "details": "Holistic beauty salon providing bridal packages, hair treatments, and skin care services.",
+      "website": "https://blisspokhara.com",
+      "category": "Saloon",
+      "location": "Pokhara"
+    }
+  ]
+}
+
+{
+  "musicSuppliers": [
+    {
+      "id": 1,
+      "name": "Kathmandu Melody Band",
+      "address": "21 Thamel, Kathmandu",
+      "phone": "+977-9813004001",
+      "email": "info@kathmandumelody.com",
+      "details": "Professional live band specializing in wedding receptions, corporate events, and cultural programs.",
+      "website": "https://kathmandumelody.com",
+      "category": "Music",
+      "location": "Kathmandu"
+    },
+    {
+      "id": 2,
+      "name": "Rhythm Nation Nepal",
+      "address": "88 Putalisadak, Kathmandu",
+      "phone": "+977-9813004002",
+      "email": "contact@rhythmnation.com",
+      "details": "Live acoustic and electric musical performances, DJs, and fusion ensembles for events.",
+      "website": "https://rhythmnation.com",
+      "category": "Music",
+      "location": "Kathmandu"
+    },
+    {
+      "id": 3,
+      "name": "Event Beats Studio",
+      "address": "12 New Baneshwor, Kathmandu",
+      "phone": "+977-9813004003",
+      "email": "bookings@eventbeats.com",
+      "details": "Full-service music team for weddings, engagements, and private functions with sound system support.",
+      "website": "https://eventbeats.com",
+      "category": "Music",
+      "location": "Kathmandu"
+    },
+    {
+      "id": 4,
+      "name": "Butwal Live Band",
+      "address": "7 Kalikanagar, Butwal",
+      "phone": "+977-9814005001",
+      "email": "info@butwalband.com",
+      "details": "Energetic band for weddings, parties, and traditional programs with live instrumentalists.",
+      "website": "https://butwalband.com",
+      "category": "Music",
+      "location": "Butwal"
+    },
+    {
+      "id": 5,
+      "name": "Fusion Sound Butwal",
+      "address": "20 Deepnagar, Butwal",
+      "phone": "+977-9814005002",
+      "email": "support@fusionsound.com",
+      "details": "Blends modern and classical music for event atmospheres, including DJ and live vocals.",
+      "website": "https://fusionsound.com",
+      "category": "Music",
+      "location": "Butwal"
+    },
+    {
+      "id": 6,
+      "name": "Harmony Music Services",
+      "address": "3 Ramnagar, Butwal",
+      "phone": "+977-9814005003",
+      "email": "events@harmonymusic.com",
+      "details": "Professional musicians and vocalists available for ceremonial and celebratory occasions.",
+      "website": "https://harmonymusic.com",
+      "category": "Music",
+      "location": "Butwal"
+    },
+    {
+      "id": 7,
+      "name": "Lakeside Echo Band",
+      "address": "15 Lakeside, Pokhara",
+      "phone": "+977-9815006001",
+      "email": "echo@lakesideband.com",
+      "details": "Well-known Pokhara band providing live music with scenic lakeside ambiance for events.",
+      "website": "https://lakesideband.com",
+      "category": "Music",
+      "location": "Pokhara"
+    },
+    {
+      "id": 8,
+      "name": "Pokhara Vibes Entertainment",
+      "address": "44 Mahendrapool, Pokhara",
+      "phone": "+977-9815006002",
+      "email": "vibes@pokharavibes.com",
+      "details": "DJ services, sound system rentals, and live performers for weddings and cultural shows.",
+      "website": "https://pokharavibes.com",
+      "category": "Music",
+      "location": "Pokhara"
+    },
+    {
+      "id": 9,
+      "name": "Harmony Beats Pokhara",
+      "address": "6 Prithvi Chowk, Pokhara",
+      "phone": "+977-9815006003",
+      "email": "hello@harmonybeats.com",
+      "details": "Professional acoustic and traditional music performances with customizable playlists.",
+      "website": "https://harmonybeats.com",
+      "category": "Music",
+      "location": "Pokhara"
+    }
+  ]
+}
+
