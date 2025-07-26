@@ -99,9 +99,7 @@
       "category": "Catering",
       "location": "Pokhara"
     }
-  ]
-}
- {
+  ],
   "decorationSuppliers": [
     {
       "id": 1,
@@ -202,9 +200,7 @@
       "category": "Decoration",
       "location": "Pokhara"
     }
-  ]
-}
-{
+  ],
   "photoshootSuppliers": [
     {
       "id": 1,
@@ -305,10 +301,7 @@
       "category": "Photoshoot",
       "location": "Pokhara"
     }
-  ]
-}
-
-{
+  ],
   "accessoriesSuppliers": [
     {
       "id": 1,
@@ -409,9 +402,7 @@
       "category": "Accessories",
       "location": "Pokhara"
     }
-  ]
-}
-{
+  ],
   "saloonSuppliers": [
     {
       "id": 1,
@@ -512,10 +503,7 @@
       "category": "Saloon",
       "location": "Pokhara"
     }
-  ]
-}
-
-{
+  ],
   "musicSuppliers": [
     {
       "id": 1,
@@ -618,4 +606,3 @@
     }
   ]
 }
-
